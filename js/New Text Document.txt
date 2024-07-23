@@ -1,0 +1,49 @@
+<section data-bs-version="5.1" class="slider3 cid-ufwMIlAmCj mbr-fullscreen" id="slider03-7q">
+    
+    <div class="carousel slide carousel-fade" id="ufyv2cNlXZ" data-ride="carousel" data-bs-ride="carousel" data-interval="5000" data-bs-interval="5000">
+        
+        <div class="carousel-inner">
+            
+            
+            <div class="carousel-item slider-image item active">
+                <div class="item-wrapper">
+                    <img class="d-block w-100" src="assets/images/download-2-540x312.webp" alt="Cuban life Tours" data-slide-to="3" data-bs-slide-to="3">
+                    
+                    <div class="carousel-caption">
+                        <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5"><strong>Trinidad and Cienfuegos&nbsp;</strong></h5>
+                        <p class="mbr-section-text mbr-fonts-style mb-4 display-7">Experience the best of Cuba on our Trinidad and Cienfuegos excursion, with the optional addition of a visit to the breathtaking Nicho Waterfalls. </p>
+                             
+                    </div>
+                </div>
+            </div><div class="carousel-item slider-image item">
+                <div class="item-wrapper">
+                    <img class="d-block w-100" src="assets/images/0960-sierra-maestra-ausblick-24nov-1-540x312.webp" alt="Cuban life Tours" data-slide-to="4" data-bs-slide-to="4">
+                    
+                    <div class="carousel-caption">
+                        <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5"><strong>Trinidad and Cienfuegos&nbsp;</strong></h5>
+                        <p class="mbr-section-text mbr-fonts-style mb-4 display-7">Experience the best of Cuba on our Trinidad and Cienfuegos excursion, with the optional addition of a visit to the breathtaking Nicho Waterfalls. </p>
+                             
+                    </div>
+                </div>
+            </div><div class="carousel-item slider-image item">
+                <div class="item-wrapper">
+                    <img class="d-block w-100" src="assets/images/1640-01-1142-1140x642.webp" alt="Cuban life Tours" data-slide-to="5" data-bs-slide-to="5">
+                    
+                    <div class="carousel-caption">
+                        <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5"><strong>Trinidad and Cienfuegos&nbsp;</strong></h5>
+                        <p class="mbr-section-text mbr-fonts-style mb-4 display-7">Experience the best of Cuba on our Trinidad and Cienfuegos excursion, with the optional addition of a visit to the breathtaking Nicho Waterfalls. </p>
+                             
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev" href="#ufyv2cNlXZ">
+            <span class="mobi-mbri mobi-mbri-arrow-prev" aria-hidden="true"></span>
+            <span class="sr-only visually-hidden">Previous</span>
+        </a>
+        <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next" href="#ufyv2cNlXZ">
+            <span class="mobi-mbri mobi-mbri-arrow-next" aria-hidden="true"></span>
+            <span class="sr-only visually-hidden">Next</span>
+        </a>
+    </div>
+</section>
