@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
         text_299.textContent = translations.text_299;
         text_300.textContent = translations.text_300;
         text_301.textContent = translations.text_301;
-        text_36.textContent = translations.text_36;
+        
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;

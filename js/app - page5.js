@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
         text_197.textContent = translations.text_197;
         text_198.textContent = translations.text_198;
        
-        text_36.textContent = translations.text_36;
+        
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;

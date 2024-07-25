@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
       .then(translations => {
         
         
-        text_36.textContent = translations.text_36;
+        
         text_37.textContent = translations.text_37;
          
         

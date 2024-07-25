@@ -42,7 +42,7 @@ const text_247 = document.getElementById('text_247');
         text_179.textContent = translations.text_179;
         text_99.textContent = translations.text_99;
         text_97.textContent = translations.text_97;
-        text_36.textContent = translations.text_36;
+        
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_191.textContent = translations.text_191;
