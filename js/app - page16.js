@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_267 = document.getElementById('text_267');
   const text_268 = document.getElementById('text_268');
   const text_269 = document.getElementById('text_269');//
-  const text_270 = document.getElementById('text_270');
-  const text_271 = document.getElementById('text_271');
-  const text_272 = document.getElementById('text_272');
+  const text_327 = document.getElementById('text_327');
+  const text_328 = document.getElementById('text_328');
+  const text_329 = document.getElementById('text_329');
   const text_273 = document.getElementById('text_273');
   const text_274 = document.getElementById('text_274');
   const text_275 = document.getElementById('text_275');
@@ -55,9 +55,9 @@ document.addEventListener('DOMContentLoaded', function () {
         text_114.textContent = translations.text_114;
         text_110.textContent = translations.text_110;
         text_109.textContent = translations.text_109;
-        text_270.textContent = translations.text_270;
-        text_271.textContent = translations.text_271;
-        text_272.textContent = translations.text_272;
+        text_327.textContent = translations.text_327;
+        text_328.textContent = translations.text_328;
+        text_329.textContent = translations.text_329;
         text_273.textContent = translations.text_273;
         text_274.textContent = translations.text_274;
         text_275.textContent = translations.text_275;

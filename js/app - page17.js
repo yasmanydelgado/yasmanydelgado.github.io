@@ -37,9 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_284 = document.getElementById('text_284');
   const text_285 = document.getElementById('text_285');
   const text_286 = document.getElementById('text_286');
-
-  console.log("Ejecutandome");
-
+  
   // Función para cargar el archivo de traducción
   function loadTranslation(lang) {
     fetch(`/locales/${lang}.json`)
@@ -68,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function () {
         text_114.textContent = translations.text_114;
         text_97.textContent = translations.text_97;
         text_99.textContent = translations.text_99;
-        
+        text_284.textContent = translations.text_284;
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;
