@@ -26,25 +26,17 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_279 = document.getElementById('text_279');
   const text_280 = document.getElementById('text_280');
   const text_281 = document.getElementById('text_281');
-  const text_282 = document.getElementById('text_282');
   const text_283 = document.getElementById('text_283');
-  const text_284 = document.getElementById('text_284');
+  const text_302 = document.getElementById('text_302');
   const text_285 = document.getElementById('text_285');
   const text_286 = document.getElementById('text_286');
   const text_260 = document.getElementById('text_260');
-  const text_77 = document.getElementById('text_77');
-  const text_80 = document.getElementById('text_80');
-  const text_79_1 = document.getElementById('text_79_1');
-  const text_80_1 = document.getElementById('text_80_1');
-  const text_79_2 = document.getElementById('text_79_2');
-  const text_80_2 = document.getElementById('text_80_2');
-  const text_35 = document.getElementById('text_35');
-  const text_36 = document.getElementById('text_36');
   const text_37 = document.getElementById('text_37');
-  const text_78 = document.getElementById('text_78');
   const text_42 = document.getElementById('text_42');
   const text_43 = document.getElementById('text_43');
-    console.log("Ejecutandome");
+  const text_109 = document.getElementById('text_109');
+  const text_110 = document.getElementById('text_110');
+  const text_114 = document.getElementById('text_114');
 
   // Función para cargar el archivo de traducción
   function loadTranslation(lang) {
@@ -75,7 +67,16 @@ document.addEventListener('DOMContentLoaded', function () {
         text_299.textContent = translations.text_299;
         text_300.textContent = translations.text_300;
         text_301.textContent = translations.text_301;
-        
+        text_109.textContent = translations.text_109;
+        text_110.textContent = translations.text_110;
+        text_114.textContent = translations.text_114;
+        text_279.textContent = translations.text_279;
+        text_280.textContent = translations.text_280;
+        text_281.textContent = translations.text_281;
+        text_283.textContent = translations.text_283;
+        text_285.textContent = translations.text_285;
+        text_286.textContent = translations.text_286;
+        text_302.textContent = translations.text_302;
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;

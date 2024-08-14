@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_279 = document.getElementById('text_279');
   const text_280 = document.getElementById('text_280');
   const text_281 = document.getElementById('text_281');
-  const text_326 = document.getElementById('text_326');
   const text_283 = document.getElementById('text_283');
   const text_285 = document.getElementById('text_285');
   const text_286 = document.getElementById('text_286');
@@ -73,12 +72,10 @@ document.addEventListener('DOMContentLoaded', function () {
         text_279.textContent = translations.text_279;
         text_280.textContent = translations.text_280;
         text_281.textContent = translations.text_281;
-        text_326.textContent = translations.text_326;
         text_283.textContent = translations.text_283;
         text_285.textContent = translations.text_285;
         text_286.textContent = translations.text_286;
         text_302.textContent = translations.text_302;
-        
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;

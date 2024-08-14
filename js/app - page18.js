@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
   const languageSwitcher = document.getElementById('languageSwitcher');
-  const text_200 = document.getElementById('text_200');
   const text_201 = document.getElementById('text_201');
   const text_202 = document.getElementById('text_202');
   const text_203 = document.getElementById('text_203');
@@ -14,34 +13,20 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_114 = document.getElementById('text_114');
   const text_97 = document.getElementById('text_97');
   const text_99 = document.getElementById('text_99');//
-  const text_68 = document.getElementById('text_68');
-  const text_69 = document.getElementById('text_69');
-  const text_68_1 = document.getElementById('text_68_1');
-  const text_69_1 = document.getElementById('text_69_1');
-  const text_68_2 = document.getElementById('text_68_2');
-  const text_69_2 = document.getElementById('text_69_2');
-  const text_35 = document.getElementById('text_35');
-  const text_36 = document.getElementById('text_36');
   const text_37 = document.getElementById('text_37');
-  const text_38 = document.getElementById('text_38');
   const text_42 = document.getElementById('text_42');
   const text_43 = document.getElementById('text_43');
-  
   const text_279 = document.getElementById('text_279');
   const text_280 = document.getElementById('text_280');
   const text_281 = document.getElementById('text_281');
   const text_284 = document.getElementById('text_284');
   const text_285 = document.getElementById('text_285');
   const text_286 = document.getElementById('text_286');
-  
-  console.log("Ejecutandome");
-
   // Función para cargar el archivo de traducción
   function loadTranslation(lang) {
     fetch(`/locales/${lang}.json`)
       .then(response => response.json())
       .then(translations => {
-        text_200.textContent = translations.text_200;
         text_201.textContent = translations.text_201;
         text_202.textContent = translations.text_202;
         text_203.textContent = translations.text_203;
