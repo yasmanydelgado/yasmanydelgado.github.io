@@ -11,26 +11,15 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_217 = document.getElementById('text_217');
   const text_218 = document.getElementById('text_218');
   const text_219 = document.getElementById('text_219');
-  const text_220 = document.getElementById('text_220');
   const text_209 = document.getElementById('text_209');
   const text_109 = document.getElementById('text_109');//
   const text_110 = document.getElementById('text_110');
   const text_114 = document.getElementById('text_114');
   const text_97 = document.getElementById('text_97');
   const text_99 = document.getElementById('text_99');//
-  const text_270 = document.getElementById('text_270');
-  const text_271 = document.getElementById('text_271');
-  const text_270_1 = document.getElementById('text_270_1');
-  const text_271_1 = document.getElementById('text_271_1');
-  const text_270_2 = document.getElementById('text_270_2');
-  const text_35 = document.getElementById('text_35');
-  const text_36 = document.getElementById('text_36');
   const text_37 = document.getElementById('text_37');
-  const text_38 = document.getElementById('text_38');
   const text_42 = document.getElementById('text_42');
   const text_43 = document.getElementById('text_43');
-  const text_271_2 = document.getElementById('text_271_2');
- 
   const text_279 = document.getElementById('text_279');
   const text_280 = document.getElementById('text_280');
   const text_281 = document.getElementById('text_281');
@@ -59,7 +48,6 @@ document.addEventListener('DOMContentLoaded', function () {
         text_217.textContent = translations.text_217;
         text_218.textContent = translations.text_218;
         text_219.textContent = translations.text_219;
-        text_220.textContent = translations.text_220;
         text_209.textContent = translations.text_209;
         text_109.textContent = translations.text_109;
         text_110.textContent = translations.text_110;

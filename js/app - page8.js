@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
   const languageSwitcher = document.getElementById('languageSwitcher');
-  const text_64 = document.getElementById('text_64');
-  const text_65 = document.getElementById('text_65');
   const text_97 = document.getElementById('text_97');
   const text_99 = document.getElementById('text_99');
   const text_171 = document.getElementById('text_171');
@@ -9,13 +7,14 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_109 = document.getElementById('text_109');
   const text_110 = document.getElementById('text_110');
   const text_114 = document.getElementById('text_114');
-  const text_35 = document.getElementById('text_35');
-  const text_36 = document.getElementById('text_36');
   const text_37 = document.getElementById('text_37');
-  const text_38 = document.getElementById('text_38');
   const text_42 = document.getElementById('text_42');
   const text_43 = document.getElementById('text_43');
-  
+  const text_173 = document.getElementById('text_173');
+  const text_174 = document.getElementById('text_174');
+  const text_175 = document.getElementById('text_175');
+  const text_176 = document.getElementById('text_176');
+  const text_177 = document.getElementById('text_177');
   const text_178 = document.getElementById('text_178');
   const text_280 = document.getElementById('text_280');
   const text_281 = document.getElementById('text_281');
@@ -36,21 +35,20 @@ document.addEventListener('DOMContentLoaded', function () {
         text_114.textContent = translations.text_114;
         text_97.textContent = translations.text_97;
         text_99.textContent = translations.text_99;
-        
-        
         text_37.textContent = translations.text_37;
-         
-        
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;
-         
+        text_173.textContent = translations.text_173;
+        text_174.textContent = translations.text_174;
+        text_175.textContent = translations.text_175;
+        text_176.textContent = translations.text_176;
+        text_177.textContent = translations.text_177;
         text_178.textContent = translations.text_178;
         text_280.textContent = translations.text_280;
         text_281.textContent = translations.text_281;
         text_284.textContent = translations.text_284;
         text_285.textContent = translations.text_285;
         text_286.textContent = translations.text_286;
-
       })
       .catch(error => console.error('Error loading translation:', error));
   }

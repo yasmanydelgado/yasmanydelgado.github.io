@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_104 = document.getElementById('text_104');
   const text_105 = document.getElementById('text_105');
   const text_106 = document.getElementById('text_106');
-  const text_107 = document.getElementById('text_107');
   const text_150 = document.getElementById('text_150');
   const text_109 = document.getElementById('text_109');
   const text_100 = document.getElementById('text_100');
@@ -37,7 +36,6 @@ document.addEventListener('DOMContentLoaded', function () {
         text_104.textContent = translations.text_104;
         text_105.textContent = translations.text_105;
         text_106.textContent = translations.text_106;
-        text_107.textContent = translations.text_107;
         text_150.textContent = translations.text_150;
         text_109.textContent = translations.text_109;
         text_100.textContent = translations.text_100;
@@ -46,13 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         text_97.textContent = translations.text_97;
         text_99.textContent = translations.text_99;
         text_22.textContent = translations.text_22;
-       
-        
-        
-        
         text_37.textContent = translations.text_37;
-         
-        
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;
         text_279.textContent = translations.text_279;

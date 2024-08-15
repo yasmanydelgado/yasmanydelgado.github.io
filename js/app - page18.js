@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const languageSwitcher = document.getElementById('languageSwitcher');
+  const text_200 = document.getElementById('text_200');
   const text_201 = document.getElementById('text_201');
   const text_202 = document.getElementById('text_202');
   const text_203 = document.getElementById('text_203');
@@ -27,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch(`/locales/${lang}.json`)
       .then(response => response.json())
       .then(translations => {
+        text_200.textContent = translations.text_200;
         text_201.textContent = translations.text_201;
         text_202.textContent = translations.text_202;
         text_203.textContent = translations.text_203;

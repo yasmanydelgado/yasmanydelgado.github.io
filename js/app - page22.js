@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const text_104 = document.getElementById('text_104');
   const text_105 = document.getElementById('text_105');
   const text_106 = document.getElementById('text_106');
-
+  const text_260 = document.getElementById('text_260');
   const text_287 = document.getElementById('text_287');
   const text_288 = document.getElementById('text_288');
   const text_289 = document.getElementById('text_289');
@@ -79,6 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
         text_37.textContent = translations.text_37;
         text_42.textContent = translations.text_42;
         text_43.textContent = translations.text_43;
+        text_260.textContent = translations.text_260;
       })
       .catch(error => console.error('Error loading translation:', error));
   }
